@@ -1,0 +1,27 @@
+_repo: The-Fiddlers-Drink-in-the-Witness-Box_53733
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+description: ''
+gutenberg_issued: '2016-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53733'
+  lccn: '17020169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Alcoholism'
+- !lcsh 'World War, 1914-1918'
+- GITenberg
+title: The Fiddlers; Drink in the Witness Box
+url: http://www.gutenberg.org/ebooks/53733

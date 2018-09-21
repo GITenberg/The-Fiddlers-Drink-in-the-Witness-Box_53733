@@ -1,5 +1,8 @@
 _repo: The-Fiddlers-Drink-in-the-Witness-Box_53733
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53733-h/images/cover.jpg
 creator:
   author:
     agent_name: Mee, Arthur
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4518
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53733#The-Fiddlers-Drink-in-the-Witness-Box
 gutenberg_issued: '2016-12-15'
 gutenberg_type: Text
 identifiers:
